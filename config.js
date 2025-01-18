@@ -11,11 +11,11 @@ module.exports = {
 
     region: process.env.REGION || "srilanka", // Region
 
-    botName: process.env.BOT_NAME || "mona", // Bot name
+    botName: process.env.BOT_NAME || "Mona", // Bot name
 
-    exifPack: process.env.EXIF_PACK || "sticker by", // Sticker pack name
+    exifPack: process.env.EXIF_PACK || "Sticker by", // Sticker pack name
 
-    exifAuthor: process.env.EXIF_AUTHOR || "mona", // Author of the sticker pack
+    exifAuthor: process.env.EXIF_AUTHOR || "Mona", // Author of the sticker pack
 
     timeZone: process.env.TIME_ZONE || "Asia/karachi", // Time zone
 
